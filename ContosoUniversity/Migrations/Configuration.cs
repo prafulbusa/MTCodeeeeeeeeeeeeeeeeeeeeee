@@ -9,7 +9,7 @@ namespace ContosoUniversity.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = true;
+            AutomaticMigrationsEnabled = true; 
         }
 
         protected override void Seed(ContosoUniversity.DAL.SchoolContext context)
